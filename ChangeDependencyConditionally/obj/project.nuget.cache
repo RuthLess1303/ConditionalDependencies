@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQBb8EeRnLljewGtLFftch4vilrEHicEzLxu7//WUSqwkIb1bGsx2YlzbzJxUzoccGXLpBV4I97czBwLqVIoOg==",
+  "success": true,
+  "projectFilePath": "/Users/ruthless/Desktop/untitled folder 2/ChangeDependecyConditionally/ChangeDependencyConditionally/ChangeDependencyConditionally.csproj",
+  "expectedPackageFiles": [
+    "/Users/ruthless/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.3.24172.9/microsoft.extensions.dependencyinjection.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/Users/ruthless/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.3.24172.9/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512"
+  ],
+  "logs": []
+}
